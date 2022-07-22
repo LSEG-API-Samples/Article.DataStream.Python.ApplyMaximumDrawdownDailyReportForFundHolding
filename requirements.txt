@@ -1,0 +1,4 @@
+DatastreamPy=1.0.12
+DateTime=4.4
+pandas=1.3.5
+eikon=1.1.15
