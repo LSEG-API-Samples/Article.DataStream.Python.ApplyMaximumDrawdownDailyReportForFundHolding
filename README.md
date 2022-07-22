@@ -1,4 +1,4 @@
-# [Apply Maximum Drawdown Daily Report for Fund Holding](https://author.prod.refinitiv.com/content/devportal/en_us/article-catalog/article/Apply-Maximum-Drawdown-Daily-Report-for-Fund-Holding.html?wcmmode=disabled)
+# [Apply Maximum Drawdown Daily Report for Fund Holding](https://developers.refinitiv.com/en/article-catalog/article/Apply-Maximum-Drawdown-Daily-Report-for-Fund-Holding)
 ### Introduction
 Maximum Drawdown (MDD) is an indicator of downside risk, with large MDDs suggesting that down movements could be volatile. However, while MDD measures the most significant loss, it does not account for the frequency of losses and the size of any gains.
 
